@@ -6,5 +6,17 @@ public class Main {
 	// write your code here
         System.out.println("Hi");
 
+        byte b;
+        int i;
+        short s;
+        long l;
+
+
+
+
+        float f1 = 5.7f;
+
+
+
     }
 }
