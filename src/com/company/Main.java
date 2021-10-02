@@ -12,11 +12,9 @@ public class Main {
         long l;
 
 
-
-
         float f1 = 5.7f;
 
-
+// Lool _)
 
     }
 }
