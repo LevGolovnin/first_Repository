@@ -15,9 +15,7 @@ public class Main {
         float f1 = 5.7f;
 
 
-        // Ha-ha, I done it!
 
-        // I too)
 
     }
 }
